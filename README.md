@@ -65,4 +65,5 @@ Before you begin, make sure you have the following installed:
     error logging file (error.log on root directory)
 
 ## Swagger url
+    In swagger only login api implemented for testing purposes all api collections are available in postman collection file
     http://localhost:3000/api-docs
